@@ -20,18 +20,12 @@
 # 机器完成图
 
 <div align="center">
-  <img src="media/loading-gif-png-5.gif" width="49%" />
-  <img src="media/loading-gif-png-5.gif" width="49%" />
-</div>
-
-<p>
-</p>
-
-<div align="center">
-<img src="media/loading-gif-png-5.gif" width="40%">
+  <img src="media/final1.png" width="44%" />
+  <img src="media/final2.png" width="54%" />
 </div>
 
 # 工程部分
+
 ## 一、遇到的主要困难，以及对其的优化
 
 <div align="center">
